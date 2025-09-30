@@ -546,7 +546,7 @@ export const textBlocks = {
       text: "வந்து ஸ்ப்ரெட் ஆகும். அந்த பிளேட்டுக்கு கீழ வைக்க கூடிய வெஜிடபிள்ஸ் ஃப்ரூட்ஸ் அந்த பிரெட்டு கீழ வைக்க கூடிய ஷவர் மாதிரி 360° வந்து கூலிங் வந்து கிடைக்கும். அதே மாதிரி வாட்டர் பாட்டில் கூலிங் வந்து பாத்தீங்கன்னா, ஃபர்ஸ்ட் வாட்டர் பாட்டில் கூலிங் இருக்கும். சோ, அந்த பாயிண்ட் வந்து பாத்தீங்கன்னா, நீங்க வந்து, மிஸ் பண்ணிட்டீங்க சோ, அந்த ஒரு பாயிண்ட் வந்து ஆட் பண்ணிக்கோங்க அண்ட்",
       tags: []
     },{
-      time: "[07:26 - 00:00]",
+      time: "[07:26 - 07:40]",
       title: "",
       text: "பப் திக்னஸ் வந்து சொல்லணும். பப் திக்னஸையும் ஆட் பண்ணிக்கோங்க சோ, மெயினான விஷயம் இந்த பப்ளிக்நெஸ் பத்தி பேசுறப்ப தான் நம்மளோட காம்பெடிஷன் வடிவையும் டிஃபரன்ஸ் வந்து நம்ம பாக்குற மாதிரி இருக்கும். சோ, அந்த பப்ளிக்நெஸ் வந்து நெக்ஸ்ட் டைம் அதை எடுக்கிறப்போ, கஸ்டமர் கிட்ட பேசுறப்போ, அதை பத்தி திக்னஸ் வந்து பேசிருவோம்.",
       tags: []
@@ -691,7 +691,7 @@ export const textBlocks = {
       text: "across the compartment. For vegetables and fruits placed below that plate, the cooling spreads like a 360-degree shower. Similarly, for water bottles, you'll find superior water bottle cooling. You missed that point, so please add it. And",
       tags: []
     },{
-      time: "[07:26 - 00:00]",
+      time: "[07:26 - 07:40]",
       title: "",
       text: " you need to mention the puff thickness. Add puff thickness to your points. The main reason to talk about puff thickness is that it highlights the difference compared to our competitors' designs. So, next time you're demonstrating this, when you speak to customers, be sure to discuss the puff thickness.",
       tags: []
