@@ -2,48 +2,48 @@
 
 export const chartData = {
       english:[
-          { name: "Pitch Adherence", score: 3 },
+          { name: "Pitch Adherence", score: 5 },
           { name: "Confidence", score: 4 },
           { name: "Technical Knowledge", score: 5 },
           { name: "Customer Pain Points Connection", score: 4 },
-          { name: "Active Demonstration", score: 5 },
-          { name: "Eye Contact", score: 4 },
+          { name: "Active Demonstration", score: 4 },
+          { name: "Eye Contact", score: 3 },
           { name: "Body Language", score: 3 },
           { name: "Gestures", score: 4 },
-          { name: "Appearance", score: 5 },
+          { name: "Appearance", score: 4 },
       ],
       hindi:[
-          { name: "Pitch Adherence", score: 3 },
+          { name: "Pitch Adherence", score: 5 },
           { name: "Confidence", score: 4 },
           { name: "Technical Knowledge", score: 5 },
           { name: "Customer Pain Points Connection", score: 4 },
-          { name: "Active Demonstration", score: 5 },
-          { name: "Eye Contact", score: 4 },
+          { name: "Active Demonstration", score: 4 },
+          { name: "Eye Contact", score: 3 },
           { name: "Body Language", score: 3 },
           { name: "Gestures", score: 4 },
-          { name: "Appearance", score: 5 },
+          { name: "Appearance", score: 4 },
       ],
       telugu:[
-          { name: "Pitch Adherence", score: 3 },
+          { name: "Pitch Adherence", score: 5 },
           { name: "Confidence", score: 4 },
           { name: "Technical Knowledge", score: 5 },
           { name: "Customer Pain Points Connection", score: 4 },
-          { name: "Active Demonstration", score: 5 },
-          { name: "Eye Contact", score: 4 },
+          { name: "Active Demonstration", score: 4 },
+          { name: "Eye Contact", score: 3 },
           { name: "Body Language", score: 3 },
           { name: "Gestures", score: 4 },
-          { name: "Appearance", score: 5 },
+          { name: "Appearance", score: 4 },
       ],
       tamil :[
-          { name: "Pitch Adherence", score: 3 },
+          { name: "Pitch Adherence", score: 5 },
           { name: "Confidence", score: 4 },
           { name: "Technical Knowledge", score: 5 },
           { name: "Customer Pain Points Connection", score: 4 },
-          { name: "Active Demonstration", score: 5 },
-          { name: "Eye Contact", score: 4 },
+          { name: "Active Demonstration", score: 4 },
+          { name: "Eye Contact", score: 3 },
           { name: "Body Language", score: 3 },
           { name: "Gestures", score: 4 },
-          { name: "Appearance", score: 5 },
+          { name: "Appearance", score: 4 },
       ]
   };
 
@@ -408,296 +408,191 @@ export const textBlocks = {
   ],
 
     tamil: [
-    {
-      time: "[00:00 - 00:15]",
-      title: "",
-      text: "ஹாய், குட் மார்னிங், சை நேம் அமீர்ஷேக் நான் ரீடைல் கோச்சிருக்கேன். திருப்பூர், ஈரோடு, கரூர் மூன்று டிஸ்ட்ரிக்ட் பாத்துட்டு இருக்கேன். சோ, இன்னைக்கு நம்ம ஜூலை 18 எங்க இருக்குன்னு சொல்லி பாத்தீங்கன்னா சத்யா ஒன் திருப்பூர்ல இருக்குறோம். இங்க வந்து பாத்திங்கன்னா நம்மளோட அட்வைசர் வளர்மதி வந்து பாத்தீங்கன்னா இன்னைக்கு நம்மளுடைய",
-      tags: []
-    },
-    {
-      time: "[00:15 - 00:30]",
-      title: "",
-      text: "இயர்ன் வைப் டபுள் டோர் மாடல் பத்தி டெமோ வந்து கொடுக்கப் போறாங்க இது என்னன்னு பாத்துட்டீங்கன்னா 330",
-      tags: []
-    },
-    {
-      time: "[00:30 - 00:45]",
-      title: "",
-      text: "லிட்டர் கெப்பாசிட்டியில் இருக்கும் 2 ஸ்டார் ரேட்டிங் ல இருக்கும். இதுல இருக்க கிரேட்டஸ் பெனிஃபிட் மட்டும் நான் சொல்றேன் உங்களுக்கு. என்னன்னு பாத்துட்டீங்கன்னா இதுல ஃபாரின் ஒன் கன்வெர்டபிள் ஆப்ஷன் கொடுத்திருப்பாங்க இப்ப மேக்ஸிமம் ஒரு பிரிட்ஜ் நீங்க எடுத்துட்டீங்கன்னா இது ஃப்ரீசர் ஆகும். இது பிரிட்ஜ் ஆகவும்",
-      tags: []
-    },
-    {
-      time: "[00:45 - 01:01]",
-      title: "",
-      text: "மட்டும் நீங்க யூஸ் பண்ணுவீங்க அதே பட் இதுல என்னன்னு பாத்தீங்கன்னா இன்னும் கொஞ்சம் அட்வான்ஸா இதுல இன்கேஸ் நீங்க ப்ரீசர்ல எதுவுமே வைக்கல எனக்கு ஃப்ரீசர் இப்போதைக்கு தேவைப்படாது. அப்படிங்கும் போது இதையே நீங்க பிரிட்ஜ்ஜாவே கன்வெர்ட் பண்ணி யூஸ் பண்ணிக்கலாம். அந்த மாதிரி ஆப்ஷன் கொடுத்திருப்பாங்க இது வந்து ஃப்ரீசர் ஃபிரிட்ஜ்ஜா யூஸ் பண்ணிக்கலாம் இல்லனா",
-      tags: []
-    },
-    {
-      time: "[01:01 - 01:16]",
-      title: "",
-      text: "இதையும் பிரிட்ஜ்ஜாவும் இதையும் பிரிட்ஜ்ஜாவும் கன்வெர்ட் பண்ணி யூஸ் பண்ணிக்கிற மாதிரி ஆப்ஷன் கொடுத்திருப்பாங்க இன்னொன்னு என்னன்னு பாத்துட்டீங்கன்னா இப்போ அவ்ளோவா நீங்க ஸ்டோரேஜ் எது பண்ணல சோ நான் வெளிய வெக்கேஷன் ப்ரோ டேஸ் வெளிய போற அப்படின்ற பட்சத்துல நீங்க கொஞ்சம் ஸ்டோரேஜ் மட்டும் ஸ்டோர் பண்ணனும். அப்படிங்கும்போது புல் ப்ரிட்ஜ் நீங்க ரன்",
-      tags: []
-    },
-    {
-      time: "[01:16 - 01:31]",
-      title: "",
-      text: "பண்ணிங்கனா உங்களுக்கு கவர் கன்ஸ்ட்ரக்ஷன் வேஸ்ட்டாதான போகுது. அதனால நீங்க என்னன்னு பாத்துட்டீங்கன்னா கீழ ஆஃப் பண்ணிட்டு மேல மட்டும் பிரிட்ஜ கன்வெர்ட் பண்ணி யூஸ் பண்ணிக்கலாம். அந்த மாதிரி ஆப்ஷன் கொடுத்திருப்பாங்க இன்னொன்னு பாத்தீங்கன்னா, நீங்க ஸ்டோரேஜ் அவ்வளக்கா எதுவுமே வைக்கல நீங்க கேஸ் நீங்க வீட்ல இருக்கீங்க ஏதோ ஒரு பங்க்ஷன் நீங்க அந்த மாதிரி டெஸெர்ட் புட் மட்டும்",
-      tags: []
-    },
-    {
-      time: "[01:31 - 01:54]",
-      title: "",
-      text: "நீங்க ஸ்டோர் பண்றீங்க அப்படிங்கும்போது பாத்தீங்கன்னா, நீங்க இந்த பிரிட்ஜ வந்து நீங்க ஆப் பண்ணிட்டு நீங்க ஃப்ரீசர் இத மட்டும் ஆன் பண்ணி நீங்க யூஸ் பண்ணிக்கலாம். அந்த மாதிரி ஆப்ஷன் கொடுத்திருப்பாங்க அந்த மோட வந்து சொல்லிட்டு சொல்லுங்க சோ, அப்ப வந்து பாத்தீங்கன்னா கஸ்டமர் க்கு அந்த நேம் வந்து ரீச் ஆகும்",
-      tags: []
-    },
-    {
-      time: "[01:54 - 02:09]",
-      title: "",
-      text: "மேல இந்த ப்ரீசர்ல இருந்து உங்களுக்கு ஒவ்வொரு விண்ட்க்கும் உங்களுக்கு ஒவ்வொரு டிராக்குக்கும் அடியில உங்களுக்கு வென்ட் கொடுத்திருப்பாங்க சோ, அப்படிங்கும் போது பாத்தீங்கன்னா, உங்களுக்கு ஃப்ரீசர்ல இருந்து ஃபிரிஜ்ல இருந்து கூழ், கூலிங் பாத்தீங்கன்னா",
-      tags: []
-    },
-    {
-      time: "[02:09 - 02:24]",
-      title: "",
-      text: "ஈவனா இருக்கும் பிரிட்ஜ் வரைக்கும் ப்ரீசர் மேல இருக்குற",
-      tags: []
-    },
-    {
-      time: "[02:24 - 02:39]",
-      title: "",
-      text: "ரெண்டுக்கு அப்பறம் உங்களுக்கு கீழ மட்டும் தான் கொடுத்திருப்பாங்க சோ, அப்படிங்கும்போது கூலிங் ஈவனா இருக்கும்னா கன்ஃபார்மா நம்ம சொல்ல முடியாது. அதே இன்னொன்னு என்னன்னு பாத்துட்டீங்கன்னா நானோ ஷீட் டெக்னாலஜின்னு சொல்லுவாங்க நானோஸியல் டெக்னாலஜின்னு பாத்துட்டீங்கனா நம்ம இந்த கூழ்",
-      tags: []
-    },
-    {
-      time: "[02:39 - 02:55]",
-      title: "",
-      text: "பாடி கூழ் பாடி டெக்னாலஜின்னு சொல்றோம்ல அதுல இருந்து வர ஏர் பார்த்தீங்கன்னா 99% பார்த்தீங்கன்னா, உங்களுக்கு பூரியஸ் ஏர் ஆயிருக்கும் அதுனால என்னன்னு பாத்துட்டீங்கன்னா உங்களுக்கு இதுல இருந்து இந்த கூல் பேலன்ஸ் டெக்னாலஜி அதிலிருந்து வேற யார் கூலிங் பாத்தீங்கன்னா, உங்களுக்கு 99%",
-      tags: []
-    },
-    {
-      time: "[02:55 - 03:10]",
-      title: "",
-      text: "வந்து கூலிங்காவும் இருக்கு. இன்னொன்னு என்னன்னு பாத்துட்டீங்கன்னா உள்ள வெச்சிருக்க புட் பாத்தீங்கன்னா, 90 பை பெர்செண்டேஜ் பாத்தீங்கன்னா, உங்களுக்கு சயின்டிபிகேஷன்ஸ் பாத்தீங்கன்னா நம்ம பிராண்ட்ல பாத்தீங்கன்னா, மூணு ட்ரேயில",
-      tags: []
-    },{
-      time: "[03:10 - 03:26]",
-      title: "",
-      text: "ஆறு டைப்ல வந்து நீங்க அட்ஜஸ்ட்மென்ட் பண்ற மாதிரி கொடுத்திருப்பாங்க அதுவே நீங்க காம்பினேட்டர் பிராண்ட்ல போயிட்டீங்கன்னா உங்களுக்கு அட்ஜஸ்டபிள் ட்ராக் வந்து நீங்க பெருசா குடுத்துருக்க மாட்டாங்க ட்ரேவும் பாத்தீங்கன்னா, இந்த ரெண்டு ட்ரேவும் மட்டும்தான் கொடுத்திருப்பாங்க அதே இன்னொன்னு என்னன்னு பாத்துட்டீங்கன்னா",
-      tags: []
-    },
-    {
-      time: "[03:26 - 03:41]",
-      title: "",
-      text: "இன்னொன்னு என்னன்னு பாத்துட்டீங்கன்னா நம்ம இதுல பாத்தீங்கன்னா மாய்ஸ்டர் கண்ட்ரோல்னு சொல்லுவாங்க அப்பனா ஹனிக்கும் வெஜிடபிள் பிரியாணி சொல்லுவாங்க இப்போ மைசூர் ஹனிக்கும் வெஜிடபிள் பிரியாணி இப்ப வெளில இருந்து புட்டு, ஃப்ரூட்ஸ் நீங்க வாங்கிட்டு",
-      tags: []
-    }, {
-      time: "[03:41 - 03:56]",
-      title: "",
-      text: "வந்து வைக்கிறீங்க சோ அப்படிங்கும்போது நம்ம அப்படியே ஸ்டோர் பண்ணும்போது அதுல இருந்து ஒரு ஹீட்டிங் ஆன ஒரு வாட்டர் வந்து நம்ம வெளிய லீக் ஆகும். அப்படிங்கும் போது அது நீங்க உள்ள வைக்கும் போது அது மேல போய் ஸ்வெட்டாகி மறுபடி கீழ தான் இத வந்து பிளாட்டா இருந்துச்சுன்னா, கீழேயே விழுகும். அதே நம்ம பிராண்டுக்கும்போது",
-      tags: []
-    }, {
-      time: "[03:56 - 04:11]",
-      title: "",
-      text: "இந்த மாதிரி ஹனிக், ஹனிக்கும் மாதிரி இந்த இது மாதிரி இருக்கிறதுனால நமக்கு பார்த்தீங்கன்னா ஸ்வெட்டாகி கீழ விழுகாத மேலே வந்து ஸ்டோர் பண்ணிக்கோங்க இந்த மாதிரி பிளாட்டா இருக்கும் அப்படிங்கும்",
-      tags: []
-    }, {
-      time: "[04:11 - 04:37]",
-      title: "",
-      text: "போது நீங்க புரூட்ட வந்து நீங்க இது பண்ணி வைக்கும் போது அந்த வாட்டர் வந்து ஆட்டோமேட்டிக்கா ப்ரீசாயி அது அப்படியே உள்ளே விழுந்துரும் வாய்ப்பு இருக்கு இன்னொன்னு",
-      tags: []
-    }, {
-      time: "[04:37 - 04:55]",
-      title: "",
-      text: "என்னன்னு பாத்துட்டீங்கன்னா வெஜிடபிள் பார்த்தீங்கன்னா மாய்ஸர் கண்ட்ரோல்ல கொடுத்திருப்பாங்க இப்ப நீங்க ஃப்ரூட்ஸ் எல்லாம் வாங்கிட்டு வந்து வைக்கிறீங்க எனக்கு தேவையான கூலிங் மட்டும் போதும் அப்படிங்கற பட்சத்துல இத நீங்க வந்து அட்ஜஸ்ட்மென்ட் பண்ணிக்கலாம். அந்த ஆப்சனோட குடுத்து இருப்பாங்க அப்புறம் நெக்ஸ்ட் பார்த்தீங்கன்னா",
-      tags: []
-    }, {
-      time: "[04:55 - 05:20]",
-      title: "",
-      text: "அப்புறம் இன்னொன்னு பாத்தீங்கன்னா நம்ம பிரிட்ஜில் பார்த்துட்டீங்களா அதுதான்",
-      tags: []
-    }, {
-      time: "[05:20 - 05:36]",
-      title: "",
-      text: "பெஸ்ட் 10 இயர்ஸ்க்கு",
-      tags: []
-    }, {
-      time: "[05:36 - 05:52]",
-      title: "",
-      text: "மேல தான் யூஸ் பண்ணுவாங்க 10 இயர்ஸ் 12 இயர்ஸ் மட்டும்தான் யூஸ் பண்ணுவாங்க அதுக்கு மேல இன்னும் அப்றேடிங்கா வர மாடில தான் லைக் பண்ணுவாங்க அப்படிங்கற பட்சத்துல இது நமக்கு பெஸ்ட் தான் ஆன்சர் ஜாஸ்தியா வைக்கிறேன் இத இத வந்து இந்த மாடல் வெஜிடபிள்ஸ்",
-      tags: []
-    }, {
-      time: "[05:52 - 06:16]",
-      title: "",
-      text: "வந்து அதிகமா யூஸ் பண்றேன் அப்படின்னு சொல்லி சொல்றதுக்கு என்ன என்ன பாயிண்ட் வந்து யூஸ் பண்ணுவீங்க நம்ம பிரண்ட்ல 34 லிட்டர் பார்த்தீங்கன்னா வெஜிடபிள் ரைஸ் இருக்கும் நம்ம வெஜிடபிள் ட்ரைன்ங்கறது பாத்தீங்கன்னா, உங்களுக்கு",
-      tags: []
-    }, {
-      time: "[06:16 - 06:56]",
-      title: "",
-      text: "கொடுத்திருப்பாங்க வெளிய எடுத்து கம்பேர் பண்ணி காமிங்க தெரியும்",
-      tags: []
-    }, {
-      time: "[06:56 - 07:11]",
-      title: "",
-      text: "இது பாத்தீங்கன்னா டிரேக்கு கீழ அடுத்தடுத்து கீழ பாத்தீங்கன்னா, வென்ட் கொடுத்திருப்பாங்க சோ, அப்படிங்கும் போது கூலிங் பாத்தீங்கன்னா, பேலன்ஸா இருக்கும். அதான் காம்பிடல்ல பாத்தீங்கன்னா உங்களுக்கு அப்படி இருக்காது. அப்படின்றது என்ன சொல்லணும் அப்படின்னு கேட்டீங்கன்னா, அது வந்து ஷவர்ன்ற மீனிங் வந்து பாத்தீங்கன்னா, மேல இருந்து கீழ வந்து ஷவர் மாதிரி",
-      tags: []
-    },{
-      time: "[07:11 - 07:26]",
-      title: "",
-      text: "வந்து ஸ்ப்ரெட் ஆகும். அந்த பிளேட்டுக்கு கீழ வைக்க கூடிய வெஜிடபிள்ஸ் ஃப்ரூட்ஸ் அந்த பிரெட்டு கீழ வைக்க கூடிய ஷவர் மாதிரி 360° வந்து கூலிங் வந்து கிடைக்கும். அதே மாதிரி வாட்டர் பாட்டில் கூலிங் வந்து பாத்தீங்கன்னா, ஃபர்ஸ்ட் வாட்டர் பாட்டில் கூலிங் இருக்கும். சோ, அந்த பாயிண்ட் வந்து பாத்தீங்கன்னா, நீங்க வந்து, மிஸ் பண்ணிட்டீங்க சோ, அந்த ஒரு பாயிண்ட் வந்து ஆட் பண்ணிக்கோங்க அண்ட்",
-      tags: []
-    },{
-      time: "[07:26 - 07:40]",
-      title: "",
-      text: "பப் திக்னஸ் வந்து சொல்லணும். பப் திக்னஸையும் ஆட் பண்ணிக்கோங்க சோ, மெயினான விஷயம் இந்த பப்ளிக்நெஸ் பத்தி பேசுறப்ப தான் நம்மளோட காம்பெடிஷன் வடிவையும் டிஃபரன்ஸ் வந்து நம்ம பாக்குற மாதிரி இருக்கும். சோ, அந்த பப்ளிக்நெஸ் வந்து நெக்ஸ்ட் டைம் அதை எடுக்கிறப்போ, கஸ்டமர் கிட்ட பேசுறப்போ, அதை பத்தி திக்னஸ் வந்து பேசிருவோம்.",
-      tags: []
-    },
-  ],
+  {
+    time: "[00:00 - 00:17]",
+    title: "",
+    text: "ஹாய், குட் மார்னிங். சோ, என் நேம் அமீர் ஷேக். நான் ரீடைல் கோச்சா இருக்கேன். திருப்பூர், ஈரோடு, கரூர் மூணு டிஸ்ட்ரிக்ட் பாத்துட்டு இருக்கிறேன். சோ, இன்னைக்கு நம்ம ஆகஸ்ட் 28 எங்க இருக்கோம்னு சொல்லி கேட்டீங்கன்னா சத்யா திருப்பூர் 1ல இருக்கிறோம். நம்மளோட அட்வைசர் கோகுல் வந்து பாத்தீங்கன்னா இன்னைக்கு இயான் வெல்வெட் 8 kg டாப் லோட் வாஷிங் மெஷின் பத்தி டெமோ வந்து கொடுப்பாரு.",
+    tags: []
+  },
+  {
+    time: "[00:17 - 00:42]",
+    title: "",
+    text: "ஹாய், என் பேரு கோகுலக்கண்ணன். நான் வந்து பாத்தீங்கன்னா திருப்பூர் சத்தியவனத்துல அட்வைசரா இருக்கேன். சோ இன்னைக்கு நம்ம பாக்க போற மாடல் பாத்தீங்கன்னா 8 kg ஸ்டீம் மாடல் வெல்வெட் சீரிஸ் பத்தி பாக்க போறோம். சோ இந்த ஏன் வெல்வெட் மாடல்ல வந்து பாத்தீங்கன்னா யூனிக்கான பாயிண்ட்ஸ்ல மெயின் வந்து பாத்தீங்கன்னா ஸ்டீம் வாஷ் வந்து கொடுத்திருப்பாங்க. சோ நார்மலா வந்து பாத்தீங்கன்னா டாப்ல உள்ள ஸ்டீம் வந்து பாத்தீங்கன்னா மோஸ்ட்லி பிராண்ட் கொடுத்திருக்க முடியாது. நம்மளுக்கு வந்து ஸ்டீம் ஆப்ஷனோட கொடுத்திருப்பாங்க. பிளஸ் வந்து ஹீட்டர் ஆப்ஷனும் உங்களுக்கு ஜம்ப் ஷீல்ட் ஆப்ஷனோடயே கொடுத்திருப்பாங்க.",
+    tags: []
+  },
+  {
+    time: "[00:42 - 00:59]",
+    title: "",
+    text: "பிளஸ் வந்து இதோட யூனிக்கான இன்னொரு பாயிண்ட்ஸ்ல பாத்தீங்கன்னா உங்களுக்கு வந்து ரோல கோஸ்டர் வாஷ்ன்னு குடுத்திருப்பாங்க. இந்த ரோல கோஸ்டர் வாஷ் போயிட்டீங்க அப்படின்னா உங்களுக்கு ட்ரம்ல வந்து பாத்தீங்கன்னா கிராவிட்டி ட்ரம் வந்து ஃபர்ஸ்ட் ஆஃப் ஆல் குடுத்திருப்பாங்க. சோ இந்த கிராவிட்டி ட்ரம் என்ன பண்ணும் அப்படின்னா துணிய வந்து கீழ் வாக்குல புல் பண்ணி கொடுக்கும். நெக்ஸ்ட் வந்து பாத்தீங்கன்னா",
+    tags: []
+  },
+  {
+    time: "[00:59 - 01:19]",
+    title: "",
+    text: "Aqua Jet Pulsator-ன்னு சொல்லுவாங்க. இந்த Aqua Jet Pulsator பாத்தீங்கன்னா, மத்த பிராண்ட கம்பேர் பண்றப்போ டயாமீட்டர்ல வந்து 14.5 m வந்து பாத்தீங்கன்னா டயாமீட்டர் லென்த்தாவும், பிளஸ் வந்து பாத்தீங்கன்னா 2.5 inches வந்து பாத்தீங்கன்னா உங்களுக்கு வந்து டெப்த் வந்து கொடுத்திருப்பாங்க. சோ இதனால துணியோட மூவ்மென்ட் வந்து பாத்தீங்கன்னா உங்களுக்கு நல்லா ஃப்ரீயாவும் கிடைக்கும். சோ 360°-லயும் உங்களுக்கு வந்து ரொட்டேஷன் பேஸ் வந்து கிடைக்கும்.",
+    tags: []
+  },
+  {
+    time: "[01:19 - 01:36]",
+    title: "",
+    text: "பிளஸ், கேஸ்கெட் வாட்டர்ஃபால். இந்த கேஸ்கெட் வாட்டர்ஃபால் பாத்தீங்கன்னா உங்களுக்கு தண்ணிய வந்து தண்ணி துணி மேல வந்து பாத்தீங்கன்னா உங்களுக்கு அருவி மாதிரி கொட்டிக்கிட்டே இருக்கறதுனால அது மேல இருக்கற ஸ்டஃப் ஸ்டேன்ஸ் பிளஸ் வந்து பாத்தீங்கன்னா போப்னோரை எல்லாமே பாத்தீங்கன்னா ரிமூவ் பண்றதுக்கு கொஞ்சம் ஈஸியா இருக்கும். இதே நீங்க வந்து காம்படிஷன் இதுல போயிட்டீங்க அப்படின்னா,",
+    tags: []
+  },
+  {
+    time: "[01:36 - 01:53]",
+    title: "",
+    text: "8 kg ஹையர்ல பாத்தீங்கன்னா, உங்களுக்கு சேம் டயாமீட்டரும் பாத்தீங்கன்னா உங்களுக்கு கம்மியாதான் இருக்கும். டெப்தும் அந்த அளவுக்கு இருக்காது. பிளஸ் வந்து பாத்தீங்கன்னா உங்களுக்கு வந்து அந்த கேஸ்கட் வால் வாட்டர்பால் ஆப்ஷன் எதுவுமே வந்து இருக்காது. பிளஸ் இந்த மாடல் வந்து வெறும் ஹீட்டர் மட்டும் தான் கொடுத்திருப்பாங்க. வெல்வெட் ஐயான் வெல்வெட் மாடல் 8 kgல வந்து பாத்தீங்கன்னா ஸ்டீம் ஆப்ஷனோடையும் கொடுத்திருப்பாங்க.",
+    tags: []
+  },
+  {
+    time: "[01:53 - 02:17]",
+    title: "",
+    text: "ஹீட்டர் ஸ்டீம் டிஃபரன்ஸ். ஹீட்டர் ஸ்டீம் வந்து பாத்தீங்கன்னா குடுத்திருப்பாங்க. சோ நம்மளுக்கு வந்து பாத்தீங்கன்னா ஸ்லோ மோஷன் டோர்ல இதுலயும் இல்ல ஹீட்டர் ஸ்டீம். இல்ல ஹீட்டர் ஸ்டீம்க்கு டிஃபரன்ஸ் என்னன்னு சொல்லி சொல்லுங்க. ஹீட்டருக்கும் ஸ்டீம்க்கும் உங்களுக்கு டிஃபரன்ஸஸ் போயிட்டீங்க அப்படின்னா, ஹீட்டர் நார்மலா வந்து பாத்தீங்கன்னா உங்களுக்கு துணி ஊற வைக்கிறது, துவைக்கிறது எல்லாமே ஹீட்டர் வாஷ் பண்ணி தண்ணி வந்து பாத்தீங்கன்னா சுடு தண்ணில துவைக்கிறது அப்படினாலுமே, ஸ்டீம் அப்படிங்கிறது ப்ரொடியூஸ் பண்ணும்போது உங்களுக்கு வந்து துணியோட அந்த சுருக்கத்து லெவல வந்து கம்மி பண்ணும். பிளஸ் வந்து பாத்தீங்கன்னா உங்களுக்கு வந்து ஃபேப்ரிக் வந்து எந்த ஒரு டேமேஜஸும் இல்லாம மேக்ஸிமம் வந்து கொடுத்திருக்கும்.",
+    tags: []
+  },
+  {
+    time: "[02:17 - 02:37]",
+    title: "",
+    text: "பிளஸ் இந்த ஹையர்ல பாத்தீங்கன்னா அந்த ஹோல்ஸ் ஓட இது எல்லாமே பாத்தீங்கன்னா சின்ன சின்னதா இருக்கும். சோ சின்ன சின்ன துணி மாட்டிட்டு உங்களுக்கு வந்து ஃபேப்ரிக் வந்து டேமேஜ் ஆகுறதுக்கு நிறைய வாய்ப்புகள் இருக்கு. இதே வந்து பாத்தீங்கன்னா நம்ம இயான் வெல்வெட் சீரிஸ்ல பாத்தீங்கன்னா ஹோல்ஸ் எல்லாமே பிக்கர் தான இருக்கும். சோ உங்களுக்கு ஃபேப்ரிக் டேமேஜ்னஸ் வந்து கொஞ்சம் கண்ட்ரோல் பண்ணி கொடுக்கும். நெக்ஸ்ட் வந்து போயிட்டீங்க அப்படின்னா உங்களுக்கு வந்து",
+    tags: []
+  },
+  {
+    time: "[02:37 - 03:33]",
+    title: "",
+    text: "ஹைஜீனிக் ரின்ஸ் அண்ட் சூப்பர் ட்ரை ஆப்ஷன் வந்து அடிஷனலா கொடுத்திருப்பாங்க. இந்த ஹைஜீனிக் ரின்ஸ் போயிட்டீங்க அப்படின்னா உங்களுக்கு வந்து துணிய வந்து நம்ம வந்து நார்மலா வாஷ் பண்ற ரின்ஸ்ல வந்து நார்மலா வந்து டாப் லோட்ல வந்து ஊற வச்சு துவைச்சு ரெண்டு தடவ அலசி ட்ரை பண்ணி கொடுக்கும். சோ எனக்கு வந்து ரின்ஸ் பண்ணது வந்து பாத்தீங்கன்னா ப்ராப்பரா இல்ல அப்படிங்கும் போது எனக்கு அடிஷனலா வந்து ரின்ஸ் பண்ணனும் அப்படிங்கும் போது நம்ம ஹைஜினிக் ரின்ஸ் வந்து கொடுத்துட்டோம் அப்படின்னா சோ உங்களுக்கு அடிஷனல் ரின்ஸ் வந்து பாத்தீங்கன்னா ஆபரேட் ஆகும். அதேதான் சேம் வந்து சூப்பர் ட்ரை. சூப்பர் ட்ரைங்கும் போது நார்மலா வந்து பாத்தீங்கன்னா உங்களுக்கு கம்பளியே இந்த மாதிரி போடுறீங்க அப்படினாலுமே அந்த கம்பளியோட அந்த ட்ரை பண்ற கொஞ்சம் எஃபெக்ட் வந்து கொடுக்கணும். சோ அது வந்து 4 டு 6 மினிட்ஸ் வந்து பாத்தீங்கன்னா அடிஷனல் டை",
+    tags: []
+  },
+  {
+    time: "[03:33 - 03:50]",
+    title: "",
+    text: "நெக்ஸ்ட் வந்து போயிட்டீங்க அப்படின்னா, கஸ்டமைஸ்டு ப்ரோக்ராம் வந்து பாத்தீங்கன்னா 38, 38 விதமா நம்ம வந்து பாத்தீங்கன்னா கஸ்டமைஸ்டு ப்ரோக்ராம் மட்டும் பண்ணிக்கலாம். இதே எக்ஸாம்பிள் காம்படிஷன்ல போயிட்டீங்கன்னா, வெறும் பாத்தீங்கன்னா 15 ப்ரோக்ராம்ஸ் மட்டும்தான் கொடுத்திருப்பாங்க. சோ நம்ம ப்ரோக்ராம் சைஸும் நம்ம கன்வீனியன்ட்க்கு ஏத்த மாதிரி நம்ம வந்து ப்ரோக்ராம்ஸ் வந்து கன்வீனியன்ட்",
+    tags: []
+  },
+  {
+    time: "[03:50 - 04:24]",
+    title: "",
+    text: "இது பண்ணிக்கலாம். மாத்திக்கலாம். கஸ்டமைஸ் பண்ணி இது பண்ணி யூஸ் பண்ணிக்கலாம். பிளஸ் வந்து டிடர்ஜென்ட் லெவல் எல்லாமே வந்து பாத்தீங்கன்னா நம்மளது வந்து இதுலயே மென்ஷன் பண்ணிருப்பாங்க. வாட்டர் லெவல்ல போயிட்டீங்கன்னா உங்களுக்கு டிடர்ஜென்ட் எவ்வளவு போடணும் அப்படிங்கறதும் மென்ஷன் ஆயிருக்கும். காம்படிஷன்ல அதுவும் மென்ஷன் ஆயிருக்காது. கஷ்டம். ஹீட்டர் மெயினானது வந்து பாத்தீங்கன்னா ஹீட்டர் டெம்பரேச்சர். சோ நம்ம டெம்பரேச்சர் செட் பண்றோம் அப்படின்னா என்ன டிகிரில செட் ஆயிருக்கு அப்படிங்கிறதையும் பாத்தீங்கன்னா நம்ம வந்து இதுல மென்ஷனே பண்ணியிருப்போம். ஹாட், வார்ம், ரெகுலர் இந்த மாதிரி போகும்போது ஹாட் வோல வந்து 55 டிகிரிலயும் வார்ம்ல போகும்போது 45 டிகிரிலயும் உங்களுக்கு ஆகும். இதே நீங்க ஸ்டீம் வந்து பாத்தீங்கன்னா குடுக்குறீங்க அப்படின்னா ஸ்டீம் வாஷ் அப்போ உங்களுக்கு 60 60 டிகிரில வந்து பாத்தீங்கன்னா உங்களுக்கு வந்து",
+    tags: []
+  },
+  {
+    time: "[04:24 - 04:45]",
+    title: "",
+    text: "ஹியர் ஸ்டீம் வந்து ப்ரொடியூஸ் பண்ணி கொடுக்கும். சோ அந்த ஆப்ஷன்ஸ் வந்து மேக்ஸிமம் வந்து காம்படிஷன் பிராண்ட்ல உங்களுக்கு வரவே வராது. நெக்ஸ்ட் லெவல்ல போயிட்டீங்கன்னா, ஃபிளிப் ப்ளீட் வந்து பாத்தீங்கன்னா கொடுத்திருப்பாங்க. சோ நார்மலா வந்து பாத்தீங்கன்னா நீங்க ட்ரான்னு போயிட்டீங்கன்னாவே இழுக்குற மாதிரிதான் வரும். அந்த டிடென்ஷன் பாக்ஸ் வந்து இழுக்குற மாதிரி கொடுத்திருப்பாங்க. சோ அது நாளடைவுல என்ன ஆகும்னா அந்த டிடென்ஷன் பாக்ஸ் கையோட வர மாதிரியும் போகும். சோ எக்ஸாம்பிள் இந்த மாதிரிதான்.",
+    tags: []
+  },
+  {
+    time: "[04:45 - 05:04]",
+    title: "",
+    text: "அது ஹேண்டிலிங் பண்றது கொஞ்சம் ரஃப்பாதான் இருக்கும். இதே வந்து பாத்தீங்கன்னா நம்ம இதுல கொஞ்சம் ஸ்மார்ட்டாவே கொடுத்திருப்பாங்க. Flip Flip மாதிரி கொடுத்திருப்பாங்க. சோ இது யூசேஜும் நல்லா இருக்கும். அந்த அளவுக்கு நம்ம வந்து ஹேண்டில் பண்றதுக்கு கஷ்டப்பட தேவைப்படாது. பிளஸ் வந்து பாத்தீங்கன்னா இதுல யூசேஜ் வைஸ் வந்து பாத்தீங்கன்னா வாரண்டி பீரியடு வந்து 12 இயர்ஸ் வந்து பாத்தீங்கன்னா மோட்டார் வாரண்டி கொடுத்திருப்பாங்க.",
+    tags: []
+  },
+  {
+    time: "[05:04 - 05:48]",
+    title: "",
+    text: "ஃபுல் பாடிக்கு வந்து த்ரீ இயர்ஸ் வந்து கொடுத்திருப்பாங்க. சோ இதனாலயே உங்களுக்கு காம்படிஷன கம்பேர் பண்றப்போ நம்மளுக்கு வாரண்டி பீரியடும் கொஞ்சம் அதிகமாவே வந்திருக்கும். ஓகே இப்போ என்கிட்ட வந்து டேங்க்ல வந்து தண்ணி கம்மியாதான் இருக்கு அப்படின்ற மாதிரி சொன்னா நம்ம அதுக்கு ஏதாவது அட்டென்ட் பண்ண முடியுமா? அதுக்கும் வந்து பாத்தீங்கன்னா நம்மளோட வந்து ஆப்ஷன் குடுத்திருக்காங்க ஜீரோ பிரஷர் டெக்னாலஜி. சோ இது காம்படிஷன்ல இருக்கா அப்படின்னா இருக்கு. பட் ஆனா நம்ம ஜீரோ பிரஷர் டெக்னாலஜில வந்து பாத்தீங்கன்னா 0.02 mba ன்னு சொல்லுவாங்க. அதாவது 62 ft வரைக்கும் நம்மளுக்கு வந்து டேங்க் இருந்தாலுமே நான் நம்ம வந்து பாத்தீங்கன்னா 60% வந்து பாத்தீங்கன்னா பிரஷர பில்ட் பண்ணி நம்மளுக்கு வந்து எடுத்து கொடுக்கும். இதே காம்படிஷன்ல சேம் அதே ஜீரோ பிரஷர் டெக்னாலஜி இருக்கு. பட் ஆனா அவங்க வந்து 50% தான் வந்து பாத்தீங்கன்னா பெட்டர் தன உங்களுக்கு வந்து சக்ஷன் வால்வு தான் இருக்கும்.",
+    tags: []
+  },
+  {
+    time: "[05:48 - 06:07]",
+    title: "",
+    text: "ஓகே சோ ஃபைனான்ஸ் ஸ்கீம்ஸ். ஃபினான்ஸ்ல போகும்போது நம்மளுக்கு வந்து Bajaj இந்த சைடு பேப்பர் ஃபினான்ஸ்ல போகும்போது 8.0, 12.4, 10.2 இந்த மாதிரி ஸ்கீம்ஸும் இருக்கு. இதை நீங்க வந்து பாத்தீங்கன்னா கிரெடிட் கார்டு மூலமா போடுறீங்க அப்படின்னா அப்டு 1500 வரைக்கும் கேஷ் பேக் ஆஃபர் ஆப்ஷனும் இருக்கு. இதுல வந்து பாத்தீங்கன்னா த்ரீ மந்த்ஸ், சிக்ஸ் மந்த்ஸ், நைன் மந்த்ஸ் வரைக்கும் நம்மளுக்கு அவைலபிலிட்டி இருக்கு.",
+    tags: []
+  }
+],
+
   english: [
-    {
-      time: "[00:00 - 00:15]",
-      title: "",
-      text: "Hi, good morning. My name is Ameer Sheikh, and I am a retail coach. I oversee three districts: Tiruppur, Erode, and Karur. So, today, July 18th, we are at Sathya One Tiruppur. Here, our advisor, Valarmathi, will be giving a demonstration today of our",
-      tags: []
-    },
-    {
-      time: "[00:15 - 00:30]",
-      title: "",
-      text: "Earn Vibe double door model. This model features a 330",
-      tags: []
-    },
-    {
-      time: "[00:30 - 00:45]",
-      title: "",
-      text: "liter capacity and has a 2-star rating. I will highlight its greatest benefits for you. This model comes with a 4-in-1 convertible option. Typically, when you consider a refrigerator, you would use one compartment as a freezer and the other as a refrigerator",
-      tags: []
-    },
-    {
-      time: "[00:45 - 01:01]",
-      title: "",
-      text: "only. However, this model offers an advanced feature: in case you don't have anything to store in the freezer and don't need it temporarily, you can convert the freezer into a refrigerator. This option is provided, allowing you to use it as a freezer or a refrigerator, or",
-      tags: []
-    },
-    {
-      time: "[01:01 - 01:16]",
-      title: "",
-      text: "you can convert both compartments into refrigerators. Another benefit is if you don't have much to store, for instance, if you're going on vacation for a few days and only need to store a small amount. In such cases, running the entire refrigerator",
-      tags: []
-    },
-    {
-      time: "[01:16 - 01:31]",
-      title: "",
-      text: "leads to wasted power consumption. So, you can switch off the lower compartment and convert only the upper part into a refrigerator. This option is available. Furthermore, if you don't have much to store, for instance, if you're home for a function and only need to store dessert items,",
-      tags: []
-    },
-    {
-      time: "[01:31 - 01:54]",
-      title: "",
-      text: "you can turn off the refrigerator section and just turn on and use the freezer. This option is provided. (Please remember to mention the specific name of that mode, so customers will remember it.)",
-      tags: []
-    },
-    {
-      time: "[01:54 - 02:09]",
-      title: "",
-      text: "From the top freezer, you'll find vents provided for each compartment and beneath each tray. This ensures that the cooling from both the freezer and the refrigerator sections is",
-      tags: []
-    },
-    {
-      time: "[02:09 - 02:24]",
-      title: "",
-      text: "even throughout the refrigerator. In other models, where the freezer is at the top",
-      tags: []
-    },
-    {
-      time: "[02:24 - 02:39]",
-      title: "",
-      text: "and vents are only provided below, we cannot definitively guarantee even cooling. Another feature is what we call Nano Sheet Technology. With Nano Seal Technology, the cool",
-      tags: []
-    },
-    {
-      time: "[02:39 - 02:55]",
-      title: "",
-      text: "body technology, as we call it, ensures that the air coming from it is 99% purified. So, with this Cool Balance Technology, the cooling provided is 99%",
-      tags: []
-    },
-    {
-      time: "[02:55 - 03:10]",
-      title: "",
-      text: " effective. Furthermore, 90-95% of the food stored inside remains fresh. Regarding scientific design, in our brand, you'll find three trays with",
-      tags: []
-    },{
-      time: "[03:10 - 03:26]",
-      title: "",
-      text: "six types of adjustment options. If you look at competitor brands, they typically don't offer extensive adjustable trays, and you'll often only find two trays. Another important point is",
-      tags: []
-    },
-    {
-      time: "[03:26 - 03:41]",
-      title: "",
-      text: "we feature moisture control. This is often referred to as the 'honeycomb vegetable crisper' or 'Mysore honeycomb vegetable crisper'. When you buy fruits and vegetables from outside and bring them",
-      tags: []
-    }, {
-      time: "[03:41 - 03:56]",
-      title: "",
-      text: " to store them, as they naturally release moisture in the form of condensation. If you place them on a flat surface, this water would accumulate and potentially fall to the bottom. However, with our brand,",
-      tags: []
-    }, {
-      time: "[03:56 - 04:11]",
-      title: "",
-      text: "because of the honeycomb design, the condensation doesn't fall to the bottom; instead, it is absorbed or stored within the honeycomb structure, preventing spoilage. If it were flat,",
-      tags: []
-    }, {
-      time: "[04:11 - 04:37]",
-      title: "",
-      text: "when you store fruits, that water could automatically get absorbed or stay within the structure. Another point is",
-      tags: []
-    }, {
-      time: "[04:37 - 04:55]",
-      title: "",
-      text: "the vegetable compartment features moisture control. If you're storing fruits and only need a certain level of cooling, you can adjust it accordingly. This option is provided. Next, we have",
-      tags: []
-    }, {
-      time: "[04:55 - 05:20]",
-      title: "",
-      text: "another feature in our refrigerator, which is",
-      tags: []
-    }, {
-      time: "[05:20 - 05:36]",
-      title: "",
-      text: "best for 10 years.",
-      tags: []
-    }, {
-      time: "[05:36 - 05:52]",
-      title: "",
-      text: "Customers typically use refrigerators for 10 to 12 years only, then they usually look for upgraded models. In that context, this model is indeed the best. I will emphasize this point. For this model's vegetable storage,",
-      tags: []
-    }, {
-      time: "[05:52 - 06:16]",
-      title: "",
-      text: "to explain why one would frequently use this feature, what points would you highlight? In our model, you'll find a 34-liter vegetable crisper. Our vegetable tray offers you",
-      tags: []
-    }, {
-      time: "[06:16 - 06:56]",
-      title: "",
-      text: "a superior design. Take it out and show it for comparison, you'll see.",
-      tags: []
-    }, {
-      time: "[06:56 - 07:11]",
-      title: "",
-      text: "You can see that beneath the tray, there are successive vents. This ensures balanced cooling. In competitor models, this isn't the case. To explain further, the term 'shower' means that cooling spreads like a shower from top to bottom",
-      tags: []
-    },{
-      time: "[07:11 - 07:26]",
-      title: "",
-      text: "across the compartment. For vegetables and fruits placed below that plate, the cooling spreads like a 360-degree shower. Similarly, for water bottles, you'll find superior water bottle cooling. You missed that point, so please add it. And",
-      tags: []
-    },{
-      time: "[07:26 - 07:40]",
-      title: "",
-      text: " you need to mention the puff thickness. Add puff thickness to your points. The main reason to talk about puff thickness is that it highlights the difference compared to our competitors' designs. So, next time you're demonstrating this, when you speak to customers, be sure to discuss the puff thickness.",
-      tags: []
-    },
-    // add more blocks
-  ],
+  {
+    time: "[00:00 - 00:17]",
+    title: "",
+    text: "Good morning. My name is Amir Sheikh. I work in retail coaching and I manage three districts: Tiruppur, Erode, and Karur. Today, on August 28th, we are at Sathya Tiruppur 1. Our advisor, Gokul, will be showing you a demonstration today about the Ian Velvet 8 kg top load washing machine.",
+    tags: []
+  },
+  {
+    time: "[00:17 - 00:42]",
+    title: "",
+    text: "Hello, my name is Gokulakannan. Today, I'm going to talk about the 8 kg Steam Model Velvet Series. This model has some special features. One of the main features is the steam wash. Usually, you might see steam on top, but it's not common for brands to include it. However, this model does. It also comes with a heater and a jump shield option.",
+    tags: []
+  },
+  {
+    time: "[00:42 - 00:59]",
+    title: "",
+    text: "If you notice another special feature, you'll find that it offers a roller coaster wash. If you choose this roller coaster wash, you'll notice that the drum in the machine first uses a gravity drum. This gravity drum pulls the clothes down into a lower vacuum.",
+    tags: []
+  },
+  {
+    time: "[00:59 - 01:19]",
+    title: "",
+    text: "They refer to it as the Aqua Jet Pulsator. If you examine the Aqua Jet Pulsator, you'll notice that it has a diameter of 14.5 meters and a depth of 2.5 inches. This larger size allows for more freedom for the cloth to move around. As a result, it has a 360° rotating base.",
+    tags: []
+  },
+  {
+    time: "[01:19 - 01:36]",
+    title: "",
+    text: "The Casquette Waterfall is another attraction. When you visit the Casquette Waterfall, you'll notice that the water flows onto a cloth. The water keeps falling like a waterfall, and the items on top of it are easier to remove. If you participate in this activity, you'll have a great time.",
+    tags: []
+  },
+  {
+    time: "[01:36 - 01:53]",
+    title: "",
+    text: "If you examine the 8 kg model, you'll notice it has the same diameter, but it will provide less capacity. The depth will also not be as great. Furthermore, you won't have the option for a gasket wall water-proof. Also, this model only includes a heater. The 8 kg velvet iron velvet model, on the other hand, comes with a steam option as well.",
+    tags: []
+  },
+  {
+    time: "[01:53 - 02:17]",
+    title: "",
+    text: "The difference between heater steam and regular steam. If you examine heater steam, it's designed to provide it. So, if you notice, it's not in the slow motion door, it's heater steam. Or, let me explain the difference between heater and steam. Normally, the heater is used for soaking and washing clothes. Even when you wash in hot water after washing, the heater produces steam, which helps to reduce wrinkles in the cloth. Plus, it's beneficial for the fabric without causing any damage.",
+    tags: []
+  },
+  {
+    time: "[02:17 - 02:37]",
+    title: "",
+    text: "If you look up, you'll notice that the holes are small. This means that if you hang small clothes, there's a risk of damaging the fabric. However, if you look at our Eyan Velvet series, the holes are larger. This design helps to reduce the risk of fabric damage.",
+    tags: []
+  },
+  {
+    time: "[02:37 - 03:33]",
+    title: "",
+    text: "They've added a hygienic rinse and super-dry feature. If you choose the hygienic rinse, you can wash your clothes in the usual way. This usually involves a top load, soaking the clothes in water, washing them twice, and then drying them. If you notice that the rinse isn't thorough enough and you need to rinse again, the hygienic rinse is there to help. Similarly, when using the super-dry feature, you usually need to give items like wool some extra drying time. This extra drying time can take anywhere from 4 to 6 minutes.",
+    tags: []
+  },
+  {
+    time: "[03:33 - 03:50]",
+    title: "",
+    text: "If you continue, you'll see that the customized program offers 38 different options. In contrast, the same example competition only provides 15 programs. This means we can adjust the size of the program to suit our needs.",
+    tags: []
+  },
+  {
+    time: "[03:50 - 04:24]",
+    title: "",
+    text: "You can make changes to it. You can adjust it to your liking. Plus, if you look at the detergent level, they have provided the amount you need to use. This information might not be available in other products. The key feature of the heater is the temperature setting. So, if you set the temperature, they would have specified the exact degree in our product. For example, when you choose hot, it's set at 55 degrees, warm at 45 degrees, and for steam wash, it's at 60 degrees.",
+    tags: []
+  },
+  {
+    time: "[04:24 - 04:45]",
+    title: "",
+    text: "Steam will come out and create it. So, you won't find these options from other brands to the same extent. If you move up a level, if you look at flip-flops, they will offer them. Usually, if you look closely, even if you go straight, they will provide it in a way that pulls. They will give you a tension box that pulls. Over time, that tension box will come with the hand. Let me give you an example.",
+    tags: []
+  },
+  {
+    time: "[04:45 - 05:04]",
+    title: "",
+    text: "It can be a bit tricky to manage. If you look closely, they could have made it more user-friendly, similar to Flip Flip. This would make it easier to use. Additionally, the warranty period is 12 years, and they would have provided a motor warranty.",
+    tags: []
+  },
+  {
+    time: "[05:04 - 05:48]",
+    title: "",
+    text: "They would have provided a full body for three years. This means that when you look at the competition, we have a slightly longer warranty period. Now, if they tell you that there isn't enough water in the tank, what can you do about it? They have given us the option of zero-pressure technology. Is this something the competition offers? Yes, it is. But in our zero-pressure technology, they mention 0.02 mba. This means that even if we have a tank up to 62 ft, they will build and give us 60% of the pressure. The same zero-pressure technology is available in this competition, but they suggest 50% is better for you, and the suction valve is better.",
+    tags: []
+  },
+  {
+    time: "[05:48 - 06:07]",
+    title: "",
+    text: "Let's talk about finance plans. When we discuss finance, we have options like Bajaj. On the other hand, when we look at paper finance, we see plans like 8.0, 12.4, and 10.2. If you decide to invest using a credit card, you might see a cashback offer of up to 1500. This offer is available for different time periods, such as three months, six months, and nine months.",
+    tags: []
+  }
+],
+
 };
 
 export const sqlQuery = `
