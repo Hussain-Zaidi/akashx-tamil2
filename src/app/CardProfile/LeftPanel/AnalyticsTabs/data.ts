@@ -411,91 +411,91 @@ export const textBlocks = {
   {
     time: "[00:00 - 00:17]",
     title: "",
-    text: "ஹாய், குட் மார்னிங். சோ, என் நேம் அமீர் ஷேக். நான் ரீடைல் கோச்சா இருக்கேன். திருப்பூர், ஈரோடு, கரூர் மூணு டிஸ்ட்ரிக்ட் பாத்துட்டு இருக்கிறேன். சோ, இன்னைக்கு நம்ம ஆகஸ்ட் 28 எங்க இருக்கோம்னு சொல்லி கேட்டீங்கன்னா சத்யா திருப்பூர் 1ல இருக்கிறோம். நம்மளோட அட்வைசர் கோகுல் வந்து பாத்தீங்கன்னா இன்னைக்கு இயான் வெல்வெட் 8 kg டாப் லோட் வாஷிங் மெஷின் பத்தி டெமோ வந்து கொடுப்பாரு.",
+    text: "காலை வணக்கம். என் பெயர் அமீர் ஷேக். நான் சில்லறை பயிற்சியில் பணிபுரிகிறேன், மூன்று மாவட்டங்களை நிர்வகிக்கிறேன்: திருப்பூர், ஈரோட் மற்றும் கருர். இன்று, ஆகஸ்ட் 28 ஆம் தேதி, நாங்கள் சத்ய திருப்பூரில் இருக்கிறோம்.",
     tags: []
   },
   {
     time: "[00:17 - 00:42]",
     title: "",
-    text: "ஹாய், என் பேரு கோகுலக்கண்ணன். நான் வந்து பாத்தீங்கன்னா திருப்பூர் சத்தியவனத்துல அட்வைசரா இருக்கேன். சோ இன்னைக்கு நம்ம பாக்க போற மாடல் பாத்தீங்கன்னா 8 kg ஸ்டீம் மாடல் வெல்வெட் சீரிஸ் பத்தி பாக்க போறோம். சோ இந்த ஏன் வெல்வெட் மாடல்ல வந்து பாத்தீங்கன்னா யூனிக்கான பாயிண்ட்ஸ்ல மெயின் வந்து பாத்தீங்கன்னா ஸ்டீம் வாஷ் வந்து கொடுத்திருப்பாங்க. சோ நார்மலா வந்து பாத்தீங்கன்னா டாப்ல உள்ள ஸ்டீம் வந்து பாத்தீங்கன்னா மோஸ்ட்லி பிராண்ட் கொடுத்திருக்க முடியாது. நம்மளுக்கு வந்து ஸ்டீம் ஆப்ஷனோட கொடுத்திருப்பாங்க. பிளஸ் வந்து ஹீட்டர் ஆப்ஷனும் உங்களுக்கு ஜம்ப் ஷீல்ட் ஆப்ஷனோடயே கொடுத்திருப்பாங்க.",
+    text: "வணக்கம், என் பெயர் கோகுலாகன்னன். இன்று, நான் 8 கிலோ நீராவி மாடல் வெல்வெட் தொடரைப் பற்றி பேசப் போகிறேன். இந்த மாதிரியில் சில சிறப்பு அம்சங்கள் உள்ளன. முக்கிய அம்சங்களில் ஒன்று நீராவி கழுவும். வழக்கமாக, மேல் சுமை விருப்பத்தில் நீராவியை நீங்கள் காணக்கூடாது, ஏனெனில் பிராண்டுகள் அதைச் சேர்ப்பது பொதுவானதல்ல. இருப்பினும், இந்த மாதிரி செய்கிறது. இது ஒரு ஹீட்டர் மற்றும் ஜம்ப் ஷீல்ட் விருப்பத்துடன் வருகிறது.",
     tags: []
   },
   {
     time: "[00:42 - 00:59]",
     title: "",
-    text: "பிளஸ் வந்து இதோட யூனிக்கான இன்னொரு பாயிண்ட்ஸ்ல பாத்தீங்கன்னா உங்களுக்கு வந்து ரோல கோஸ்டர் வாஷ்ன்னு குடுத்திருப்பாங்க. இந்த ரோல கோஸ்டர் வாஷ் போயிட்டீங்க அப்படின்னா உங்களுக்கு ட்ரம்ல வந்து பாத்தீங்கன்னா கிராவிட்டி ட்ரம் வந்து ஃபர்ஸ்ட் ஆஃப் ஆல் குடுத்திருப்பாங்க. சோ இந்த கிராவிட்டி ட்ரம் என்ன பண்ணும் அப்படின்னா துணிய வந்து கீழ் வாக்குல புல் பண்ணி கொடுக்கும். நெக்ஸ்ட் வந்து பாத்தீங்கன்னா",
+    text: "மற்றொரு சிறப்பு அம்சத்தை நீங்கள் கவனித்தால், இது ஒரு ரோலர் கோஸ்டர் கழுவலை வழங்குகிறது என்பதை நீங்கள் காண்பீர்கள். இந்த ரோலர் கோஸ்டர் வாஷை நீங்கள் தேர்வுசெய்தால், இயந்திரத்தில் உள்ள டிரம் முதலில் ஈர்ப்பு டிரம் பயன்படுத்துவதை நீங்கள் கவனிப்பீர்கள். இந்த ஈர்ப்பு டிரம் துணிகளை குறைந்த வெற்றிடத்திற்குள் இழுக்கிறது.",
     tags: []
   },
   {
     time: "[00:59 - 01:19]",
     title: "",
-    text: "Aqua Jet Pulsator-ன்னு சொல்லுவாங்க. இந்த Aqua Jet Pulsator பாத்தீங்கன்னா, மத்த பிராண்ட கம்பேர் பண்றப்போ டயாமீட்டர்ல வந்து 14.5 m வந்து பாத்தீங்கன்னா டயாமீட்டர் லென்த்தாவும், பிளஸ் வந்து பாத்தீங்கன்னா 2.5 inches வந்து பாத்தீங்கன்னா உங்களுக்கு வந்து டெப்த் வந்து கொடுத்திருப்பாங்க. சோ இதனால துணியோட மூவ்மென்ட் வந்து பாத்தீங்கன்னா உங்களுக்கு நல்லா ஃப்ரீயாவும் கிடைக்கும். சோ 360°-லயும் உங்களுக்கு வந்து ரொட்டேஷன் பேஸ் வந்து கிடைக்கும்.",
+    text: "அவர்கள் அதை அக்வா ஜெட் பல்சேட்டர் என்று குறிப்பிடுகிறார்கள். அக்வா ஜெட் பல்சேட்டரை நீங்கள் ஆராய்ந்தால், அதில் 14.5 மீட்டர் விட்டம் மற்றும் 2.5 அங்குல ஆழம் இருப்பதை நீங்கள் கவனிப்பீர்கள். இந்த பெரிய அளவு துணியைச் சுற்றுவதற்கு அதிக சுதந்திரத்தை அனுமதிக்கிறது. இதன் விளைவாக, இது 360 ° சுழலும் தளத்தைக் கொண்டுள்ளது.",
     tags: []
   },
   {
     time: "[01:19 - 01:36]",
     title: "",
-    text: "பிளஸ், கேஸ்கெட் வாட்டர்ஃபால். இந்த கேஸ்கெட் வாட்டர்ஃபால் பாத்தீங்கன்னா உங்களுக்கு தண்ணிய வந்து தண்ணி துணி மேல வந்து பாத்தீங்கன்னா உங்களுக்கு அருவி மாதிரி கொட்டிக்கிட்டே இருக்கறதுனால அது மேல இருக்கற ஸ்டஃப் ஸ்டேன்ஸ் பிளஸ் வந்து பாத்தீங்கன்னா போப்னோரை எல்லாமே பாத்தீங்கன்னா ரிமூவ் பண்றதுக்கு கொஞ்சம் ஈஸியா இருக்கும். இதே நீங்க வந்து காம்படிஷன் இதுல போயிட்டீங்க அப்படின்னா,",
+    text: "காஸ்குவெட் நீர்வீழ்ச்சி மற்றொரு ஈர்ப்பு. நீங்கள் காஸ்குவெட் நீர்வீழ்ச்சியைப் பார்வையிடும்போது, ​​தண்ணீர் ஒரு துணி மீது பாய்கிறது என்பதை நீங்கள் கவனிப்பீர்கள். நீர் ஒரு நீர்வீழ்ச்சி போல விழுகிறது, மேலும் அதன் மேல் உள்ள பொருட்களை கறைகள் மற்றும் அதிகப்படியான சோப்பை அகற்றுவது எளிதானது. ",
     tags: []
   },
   {
     time: "[01:36 - 01:53]",
     title: "",
-    text: "8 kg ஹையர்ல பாத்தீங்கன்னா, உங்களுக்கு சேம் டயாமீட்டரும் பாத்தீங்கன்னா உங்களுக்கு கம்மியாதான் இருக்கும். டெப்தும் அந்த அளவுக்கு இருக்காது. பிளஸ் வந்து பாத்தீங்கன்னா உங்களுக்கு வந்து அந்த கேஸ்கட் வால் வாட்டர்பால் ஆப்ஷன் எதுவுமே வந்து இருக்காது. பிளஸ் இந்த மாடல் வந்து வெறும் ஹீட்டர் மட்டும் தான் கொடுத்திருப்பாங்க. வெல்வெட் ஐயான் வெல்வெட் மாடல் 8 kgல வந்து பாத்தீங்கன்னா ஸ்டீம் ஆப்ஷனோடையும் கொடுத்திருப்பாங்க.",
+    text: "போட்டி தயாரிப்பு, ஹையர் 8 கிலோ மாடலை நீங்கள் ஆராய்ந்தால், அதில் குறைந்த விட்டம் மற்றும் ஆழம் இருப்பதை நீங்கள் கவனிப்பீர்கள், இது குறைந்த திறனை வழங்குகிறது. மேலும், கேஸ்கட் சுவர் நீர்-ஆதாரத்திற்கான விருப்பம் உங்களுக்கு இருக்காது. மேலும், இந்த மாதிரியில் ஒரு ஹீட்டர் மட்டுமே அடங்கும். 8 கிலோ வெல்வெட் இரும்பு மாடல், மறுபுறம், ஒரு நீராவி விருப்பத்துடன் வருகிறது.",
     tags: []
   },
   {
     time: "[01:53 - 02:17]",
     title: "",
-    text: "ஹீட்டர் ஸ்டீம் டிஃபரன்ஸ். ஹீட்டர் ஸ்டீம் வந்து பாத்தீங்கன்னா குடுத்திருப்பாங்க. சோ நம்மளுக்கு வந்து பாத்தீங்கன்னா ஸ்லோ மோஷன் டோர்ல இதுலயும் இல்ல ஹீட்டர் ஸ்டீம். இல்ல ஹீட்டர் ஸ்டீம்க்கு டிஃபரன்ஸ் என்னன்னு சொல்லி சொல்லுங்க. ஹீட்டருக்கும் ஸ்டீம்க்கும் உங்களுக்கு டிஃபரன்ஸஸ் போயிட்டீங்க அப்படின்னா, ஹீட்டர் நார்மலா வந்து பாத்தீங்கன்னா உங்களுக்கு துணி ஊற வைக்கிறது, துவைக்கிறது எல்லாமே ஹீட்டர் வாஷ் பண்ணி தண்ணி வந்து பாத்தீங்கன்னா சுடு தண்ணில துவைக்கிறது அப்படினாலுமே, ஸ்டீம் அப்படிங்கிறது ப்ரொடியூஸ் பண்ணும்போது உங்களுக்கு வந்து துணியோட அந்த சுருக்கத்து லெவல வந்து கம்மி பண்ணும். பிளஸ் வந்து பாத்தீங்கன்னா உங்களுக்கு வந்து ஃபேப்ரிக் வந்து எந்த ஒரு டேமேஜஸும் இல்லாம மேக்ஸிமம் வந்து கொடுத்திருக்கும்.",
+    text: "ஹீட்டர் நீராவிக்கும் வழக்கமான நீராவிக்கும் உள்ள வித்தியாசம். ஹீட்டருக்கும் நீராவிக்கும் உள்ள வித்தியாசத்தை விளக்குகிறேன். பொதுவாக, ஹீட்டர் துணிகளை ஊறவைப்பதற்கும் கழுவுவதற்கும் பயன்படுத்தப்படுகிறது. கழுவிய பின் நீங்கள் சூடான நீரில் கழுவும்போது கூட, ஹீட்டர் நீராவியை உற்பத்தி செய்கிறது, இது துணியில் சுருக்கங்களைக் குறைக்க உதவுகிறது. கூடுதலாக, இது எந்த சேதத்தையும் ஏற்படுத்தாமல் துணிக்கு நன்மை பயக்கும்.",
     tags: []
   },
   {
     time: "[02:17 - 02:37]",
     title: "",
-    text: "பிளஸ் இந்த ஹையர்ல பாத்தீங்கன்னா அந்த ஹோல்ஸ் ஓட இது எல்லாமே பாத்தீங்கன்னா சின்ன சின்னதா இருக்கும். சோ சின்ன சின்ன துணி மாட்டிட்டு உங்களுக்கு வந்து ஃபேப்ரிக் வந்து டேமேஜ் ஆகுறதுக்கு நிறைய வாய்ப்புகள் இருக்கு. இதே வந்து பாத்தீங்கன்னா நம்ம இயான் வெல்வெட் சீரிஸ்ல பாத்தீங்கன்னா ஹோல்ஸ் எல்லாமே பிக்கர் தான இருக்கும். சோ உங்களுக்கு ஃபேப்ரிக் டேமேஜ்னஸ் வந்து கொஞ்சம் கண்ட்ரோல் பண்ணி கொடுக்கும். நெக்ஸ்ட் வந்து போயிட்டீங்க அப்படின்னா உங்களுக்கு வந்து",
+    text: "நீங்கள் மேலே பார்த்தால், ஹியரில் துளைகள் சிறியவை என்பதை நீங்கள் கவனிப்பீர்கள். இதன் பொருள் நீங்கள் சிறிய ஆடைகளைத் தொங்கவிட்டால், துணியை சேதப்படுத்தும் ஆபத்து உள்ளது. இருப்பினும், எங்கள் ஐயன் வெல்வெட் தொடரைப் பார்த்தால், துளைகள் பெரியவை. இந்த வடிவமைப்பு துணி சேதத்தின் அபாயத்தைக் குறைக்க உதவுகிறது.",
     tags: []
   },
   {
     time: "[02:37 - 03:33]",
     title: "",
-    text: "ஹைஜீனிக் ரின்ஸ் அண்ட் சூப்பர் ட்ரை ஆப்ஷன் வந்து அடிஷனலா கொடுத்திருப்பாங்க. இந்த ஹைஜீனிக் ரின்ஸ் போயிட்டீங்க அப்படின்னா உங்களுக்கு வந்து துணிய வந்து நம்ம வந்து நார்மலா வாஷ் பண்ற ரின்ஸ்ல வந்து நார்மலா வந்து டாப் லோட்ல வந்து ஊற வச்சு துவைச்சு ரெண்டு தடவ அலசி ட்ரை பண்ணி கொடுக்கும். சோ எனக்கு வந்து ரின்ஸ் பண்ணது வந்து பாத்தீங்கன்னா ப்ராப்பரா இல்ல அப்படிங்கும் போது எனக்கு அடிஷனலா வந்து ரின்ஸ் பண்ணனும் அப்படிங்கும் போது நம்ம ஹைஜினிக் ரின்ஸ் வந்து கொடுத்துட்டோம் அப்படின்னா சோ உங்களுக்கு அடிஷனல் ரின்ஸ் வந்து பாத்தீங்கன்னா ஆபரேட் ஆகும். அதேதான் சேம் வந்து சூப்பர் ட்ரை. சூப்பர் ட்ரைங்கும் போது நார்மலா வந்து பாத்தீங்கன்னா உங்களுக்கு கம்பளியே இந்த மாதிரி போடுறீங்க அப்படினாலுமே அந்த கம்பளியோட அந்த ட்ரை பண்ற கொஞ்சம் எஃபெக்ட் வந்து கொடுக்கணும். சோ அது வந்து 4 டு 6 மினிட்ஸ் வந்து பாத்தீங்கன்னா அடிஷனல் டை",
+    text: "அவர்கள் ஒரு சுகாதாரமான துவைக்க மற்றும் சூப்பர் உலர்ந்த அம்சத்தைச் சேர்த்துள்ளனர். நீங்கள் சுகாதாரமான துவைக்கத் தேர்வுசெய்தால், உங்கள் துணிகளை வழக்கமான வழியில் கழுவலாம். இது வழக்கமாக ஒரு மேல் சுமை, துணிகளை தண்ணீரில் ஊறவைத்தல், அவற்றை இரண்டு முறை கழுவுதல், பின்னர் அவற்றை உலர்த்துதல் ஆகியவை அடங்கும். துவைக்க போதுமானதாக இல்லை என்பதை நீங்கள் கவனித்தால், நீங்கள் மீண்டும் துவைக்க வேண்டும் என்றால், உதவி செய்ய சுகாதாரமான துவைக்கப்படுகிறது. இதேபோல், சூப்பர் உலர்ந்த அம்சத்தைப் பயன்படுத்தும் போது, ​​நீங்கள் வழக்கமாக கம்பளி போன்ற பொருட்களை சில கூடுதல் உலர்த்தும் நேரத்தை கொடுக்க வேண்டும். இந்த கூடுதல் உலர்த்தும் நேரம் 4 முதல் 6 நிமிடங்கள் வரை எங்கும் ஆகலாம். போட்டி தயாரிப்பைப் பார்த்தால், இந்த அம்சங்கள் இல்லை. தேவைப்பட்டால், தனித்தனியாக விருப்பம் கழுவப்பட்ட பிறகு தேர்ந்தெடுக்கப்பட வேண்டும்.",
     tags: []
   },
   {
     time: "[03:33 - 03:50]",
     title: "",
-    text: "நெக்ஸ்ட் வந்து போயிட்டீங்க அப்படின்னா, கஸ்டமைஸ்டு ப்ரோக்ராம் வந்து பாத்தீங்கன்னா 38, 38 விதமா நம்ம வந்து பாத்தீங்கன்னா கஸ்டமைஸ்டு ப்ரோக்ராம் மட்டும் பண்ணிக்கலாம். இதே எக்ஸாம்பிள் காம்படிஷன்ல போயிட்டீங்கன்னா, வெறும் பாத்தீங்கன்னா 15 ப்ரோக்ராம்ஸ் மட்டும்தான் கொடுத்திருப்பாங்க. சோ நம்ம ப்ரோக்ராம் சைஸும் நம்ம கன்வீனியன்ட்க்கு ஏத்த மாதிரி நம்ம வந்து ப்ரோக்ராம்ஸ் வந்து கன்வீனியன்ட்",
+    text: "நீங்கள் தொடர்ந்தால், தனிப்பயனாக்கப்பட்ட நிரல் 38 வெவ்வேறு விருப்பங்களை வழங்குகிறது என்பதை நீங்கள் காண்பீர்கள். இதற்கு மாறாக, போட்டி தயாரிப்பு 15 நிரல்களை மட்டுமே வழங்குகிறது. இதன் பொருள் எங்கள் தேவைகளுக்கு ஏற்ப நிரலின் அளவை சரிசெய்யலாம்.",
     tags: []
   },
   {
     time: "[03:50 - 04:24]",
     title: "",
-    text: "இது பண்ணிக்கலாம். மாத்திக்கலாம். கஸ்டமைஸ் பண்ணி இது பண்ணி யூஸ் பண்ணிக்கலாம். பிளஸ் வந்து டிடர்ஜென்ட் லெவல் எல்லாமே வந்து பாத்தீங்கன்னா நம்மளது வந்து இதுலயே மென்ஷன் பண்ணிருப்பாங்க. வாட்டர் லெவல்ல போயிட்டீங்கன்னா உங்களுக்கு டிடர்ஜென்ட் எவ்வளவு போடணும் அப்படிங்கறதும் மென்ஷன் ஆயிருக்கும். காம்படிஷன்ல அதுவும் மென்ஷன் ஆயிருக்காது. கஷ்டம். ஹீட்டர் மெயினானது வந்து பாத்தீங்கன்னா ஹீட்டர் டெம்பரேச்சர். சோ நம்ம டெம்பரேச்சர் செட் பண்றோம் அப்படின்னா என்ன டிகிரில செட் ஆயிருக்கு அப்படிங்கிறதையும் பாத்தீங்கன்னா நம்ம வந்து இதுல மென்ஷனே பண்ணியிருப்போம். ஹாட், வார்ம், ரெகுலர் இந்த மாதிரி போகும்போது ஹாட் வோல வந்து 55 டிகிரிலயும் வார்ம்ல போகும்போது 45 டிகிரிலயும் உங்களுக்கு ஆகும். இதே நீங்க ஸ்டீம் வந்து பாத்தீங்கன்னா குடுக்குறீங்க அப்படின்னா ஸ்டீம் வாஷ் அப்போ உங்களுக்கு 60 60 டிகிரில வந்து பாத்தீங்கன்னா உங்களுக்கு வந்து",
+    text: "நீங்கள் அதில் மாற்றங்களைச் செய்யலாம். உங்கள் விருப்பப்படி அதை சரிசெய்யலாம். கூடுதலாக, நீங்கள் சோப்பு அளவைப் பார்த்தால், நீங்கள் பயன்படுத்த வேண்டிய தொகையை அவர்கள் வழங்கியுள்ளனர். இந்த தகவல் பிற தயாரிப்புகளில் கிடைக்காமல் போகலாம். ஹீட்டரின் முக்கிய அம்சம் வெப்பநிலை அமைப்பு. எனவே, நீங்கள் வெப்பநிலையை அமைத்தால், அவர்கள் எங்கள் தயாரிப்பில் சரியான அளவைக் குறிப்பிட்டிருப்பார்கள். எடுத்துக்காட்டாக, நீங்கள் சூடாகத் தேர்வுசெய்யும்போது, ​​அது 55 டிகிரியில் அமைக்கப்பட்டுள்ளது, 45 டிகிரியில் சூடாகவும், நீராவி கழுவவும், இது 60 டிகிரியில் உள்ளது. நீராவி வெளியே வந்து அதை உருவாக்கும்.",
     tags: []
   },
   {
     time: "[04:24 - 04:45]",
     title: "",
-    text: "ஹியர் ஸ்டீம் வந்து ப்ரொடியூஸ் பண்ணி கொடுக்கும். சோ அந்த ஆப்ஷன்ஸ் வந்து மேக்ஸிமம் வந்து காம்படிஷன் பிராண்ட்ல உங்களுக்கு வரவே வராது. நெக்ஸ்ட் லெவல்ல போயிட்டீங்கன்னா, ஃபிளிப் ப்ளீட் வந்து பாத்தீங்கன்னா கொடுத்திருப்பாங்க. சோ நார்மலா வந்து பாத்தீங்கன்னா நீங்க ட்ரான்னு போயிட்டீங்கன்னாவே இழுக்குற மாதிரிதான் வரும். அந்த டிடென்ஷன் பாக்ஸ் வந்து இழுக்குற மாதிரி கொடுத்திருப்பாங்க. சோ அது நாளடைவுல என்ன ஆகும்னா அந்த டிடென்ஷன் பாக்ஸ் கையோட வர மாதிரியும் போகும். சோ எக்ஸாம்பிள் இந்த மாதிரிதான்.",
+    text: "எனவே, இந்த விருப்பங்களை மற்ற பிராண்டுகளிலிருந்து அதே அளவிற்கு நீங்கள் காண முடியாது. நீங்கள் ஒரு நிலையை நகர்த்தினால், சோப்புக்கு ஃபிளிப்-ஃப்ளாப்புகளைப் பார்க்கிறீர்கள், அவை அவற்றை வழங்கும். வழக்கமாக, நீங்கள் ஒரு டிரா வகை வழங்கப்படும் என்று பார்த்தால், அதைக் கையாள்வது கடினம். இழுக்கும் ஒரு பதற்றம் பெட்டியை அவை உங்களுக்குக் கொடுக்கும். காலப்போக்கில், அந்த பதற்றம் பெட்டி கையால் வரும். நான் உங்களுக்கு ஒரு உதாரணம் தருகிறேன்.",
     tags: []
   },
   {
     time: "[04:45 - 05:04]",
     title: "",
-    text: "அது ஹேண்டிலிங் பண்றது கொஞ்சம் ரஃப்பாதான் இருக்கும். இதே வந்து பாத்தீங்கன்னா நம்ம இதுல கொஞ்சம் ஸ்மார்ட்டாவே கொடுத்திருப்பாங்க. Flip Flip மாதிரி கொடுத்திருப்பாங்க. சோ இது யூசேஜும் நல்லா இருக்கும். அந்த அளவுக்கு நம்ம வந்து ஹேண்டில் பண்றதுக்கு கஷ்டப்பட தேவைப்படாது. பிளஸ் வந்து பாத்தீங்கன்னா இதுல யூசேஜ் வைஸ் வந்து பாத்தீங்கன்னா வாரண்டி பீரியடு வந்து 12 இயர்ஸ் வந்து பாத்தீங்கன்னா மோட்டார் வாரண்டி கொடுத்திருப்பாங்க.",
+    text: "நிர்வகிப்பது சற்று தந்திரமானதாக இருக்கும். நீங்கள் நெருக்கமாகப் பார்த்தால், அவர்கள் அதை எங்கள் மாதிரியில் அதிக பயனர் நட்பாக ஆக்கியுள்ளனர். இது பயன்படுத்த எளிதாக்கும். கூடுதலாக, உத்தரவாத காலம் மோட்டார் உத்தரவாதத்திற்கு 12 ஆண்டுகள் ஆகும்.",
     tags: []
   },
   {
     time: "[05:04 - 05:48]",
     title: "",
-    text: "ஃபுல் பாடிக்கு வந்து த்ரீ இயர்ஸ் வந்து கொடுத்திருப்பாங்க. சோ இதனாலயே உங்களுக்கு காம்படிஷன கம்பேர் பண்றப்போ நம்மளுக்கு வாரண்டி பீரியடும் கொஞ்சம் அதிகமாவே வந்திருக்கும். ஓகே இப்போ என்கிட்ட வந்து டேங்க்ல வந்து தண்ணி கம்மியாதான் இருக்கு அப்படின்ற மாதிரி சொன்னா நம்ம அதுக்கு ஏதாவது அட்டென்ட் பண்ண முடியுமா? அதுக்கும் வந்து பாத்தீங்கன்னா நம்மளோட வந்து ஆப்ஷன் குடுத்திருக்காங்க ஜீரோ பிரஷர் டெக்னாலஜி. சோ இது காம்படிஷன்ல இருக்கா அப்படின்னா இருக்கு. பட் ஆனா நம்ம ஜீரோ பிரஷர் டெக்னாலஜில வந்து பாத்தீங்கன்னா 0.02 mba ன்னு சொல்லுவாங்க. அதாவது 62 ft வரைக்கும் நம்மளுக்கு வந்து டேங்க் இருந்தாலுமே நான் நம்ம வந்து பாத்தீங்கன்னா 60% வந்து பாத்தீங்கன்னா பிரஷர பில்ட் பண்ணி நம்மளுக்கு வந்து எடுத்து கொடுக்கும். இதே காம்படிஷன்ல சேம் அதே ஜீரோ பிரஷர் டெக்னாலஜி இருக்கு. பட் ஆனா அவங்க வந்து 50% தான் வந்து பாத்தீங்கன்னா பெட்டர் தன உங்களுக்கு வந்து சக்ஷன் வால்வு தான் இருக்கும்.",
+    text: "அவர்கள் மூன்று ஆண்டுகளாக முழு உடல் உத்தரவாதத்தை வழங்கியிருப்பார்கள். இதன் பொருள் நீங்கள் போட்டியைப் பார்க்கும்போது, ​​எங்களுக்கு சற்று நீண்ட உத்தரவாத காலம் உள்ளது. இப்போது, ​​தொட்டியில் போதுமான தண்ணீர் இல்லை என்று அவர்கள் சொன்னால், அதைப் பற்றி நீங்கள் என்ன செய்ய முடியும்? பூஜ்ஜிய அழுத்த தொழில்நுட்பத்தின் விருப்பத்தை அவர்கள் எங்களுக்கு வழங்கியுள்ளனர். இது போட்டி வழங்கும் ஒன்றுதானா? ஆம், அது. ஆனால் எங்கள் பூஜ்ஜிய-அழுத்த தொழில்நுட்பத்தில், அவர்கள் 0.02 எம்பிஏ குறிப்பிடுகிறார்கள். இதன் பொருள் என்னவென்றால், நம்மிடம் 6.2 அடி வரை ஒரு தொட்டி இருந்தாலும், அவை 60% அழுத்தத்தை உருவாக்கி எங்களுக்கு வழங்கும். இந்த போட்டியில் அதே பூஜ்ஜிய-அழுத்த தொழில்நுட்பம் கிடைக்கிறது, ஆனால் அவை உங்களுக்கு 50% மட்டுமே சிறப்பாக வழங்க முடியும், மேலும் சிறந்த உறிஞ்சும் வால்வு காரணமாக எங்கள் மாதிரி சிறப்பாக செயல்படுகிறது.",
     tags: []
   },
   {
     time: "[05:48 - 06:07]",
     title: "",
-    text: "ஓகே சோ ஃபைனான்ஸ் ஸ்கீம்ஸ். ஃபினான்ஸ்ல போகும்போது நம்மளுக்கு வந்து Bajaj இந்த சைடு பேப்பர் ஃபினான்ஸ்ல போகும்போது 8.0, 12.4, 10.2 இந்த மாதிரி ஸ்கீம்ஸும் இருக்கு. இதை நீங்க வந்து பாத்தீங்கன்னா கிரெடிட் கார்டு மூலமா போடுறீங்க அப்படின்னா அப்டு 1500 வரைக்கும் கேஷ் பேக் ஆஃபர் ஆப்ஷனும் இருக்கு. இதுல வந்து பாத்தீங்கன்னா த்ரீ மந்த்ஸ், சிக்ஸ் மந்த்ஸ், நைன் மந்த்ஸ் வரைக்கும் நம்மளுக்கு அவைலபிலிட்டி இருக்கு.",
+    text: "நிதித் திட்டங்களைப் பற்றி பேசலாம். நாங்கள் நிதி பற்றி விவாதிக்கும்போது, ​​பாஜாஜ் போன்ற விருப்பங்கள் எங்களிடம் உள்ளன. மறுபுறம், காகித நிதியைப் பார்க்கும்போது, ​​8.0, 12.4, மற்றும் 10.2 போன்ற திட்டங்களைக் காண்கிறோம். கிரெடிட் கார்டைப் பயன்படுத்தி முதலீடு செய்ய நீங்கள் முடிவு செய்தால், 1500 வரை கேஷ்பேக் சலுகையை நீங்கள் காணலாம். இந்த சலுகை மூன்று மாதங்கள், ஆறு மாதங்கள் மற்றும் ஒன்பது மாதங்கள் போன்ற வெவ்வேறு காலங்களுக்கு கிடைக்கிறது.",
     tags: []
   }
 ],
@@ -510,7 +510,7 @@ export const textBlocks = {
   {
     time: "[00:17 - 00:42]",
     title: "",
-    text: "Hello, my name is Gokulakannan. Today, I'm going to talk about the 8 kg Steam Model Velvet Series. This model has some special features. One of the main features is the steam wash. Usually, you might see steam on top, but it's not common for brands to include it. However, this model does. It also comes with a heater and a jump shield option.",
+    text: "Hello, my name is Gokulakannan. Today, I'm going to talk about the 8 kg Steam Model Velvet Series. This model has some special features. One of the main features is the steam wash. Usually, you might not see steam on top load option, as it's not common for brands to include it. However, this model does. It also comes with a heater and a jump shield option.",
     tags: []
   },
   {
@@ -528,61 +528,61 @@ export const textBlocks = {
   {
     time: "[01:19 - 01:36]",
     title: "",
-    text: "The Casquette Waterfall is another attraction. When you visit the Casquette Waterfall, you'll notice that the water flows onto a cloth. The water keeps falling like a waterfall, and the items on top of it are easier to remove. If you participate in this activity, you'll have a great time.",
+    text: "The Casquette Waterfall is another attraction. When you visit the Casquette Waterfall, you'll notice that the water flows onto a cloth. The water keeps falling like a waterfall, and the items on top of it are easier to remove stains and excess soap.",
     tags: []
   },
   {
     time: "[01:36 - 01:53]",
     title: "",
-    text: "If you examine the 8 kg model, you'll notice it has the same diameter, but it will provide less capacity. The depth will also not be as great. Furthermore, you won't have the option for a gasket wall water-proof. Also, this model only includes a heater. The 8 kg velvet iron velvet model, on the other hand, comes with a steam option as well.",
+    text: "If you examine competition product, the Haier 8 kg model, you'll notice it has the less diameter and depth, it provides less capacity. Furthermore, you won't have the option for a gasket wall water-proof. Also, this model only includes a heater. The 8 kg velvet iron model, on the other hand, comes with a steam option as well.",
     tags: []
   },
   {
     time: "[01:53 - 02:17]",
     title: "",
-    text: "The difference between heater steam and regular steam. If you examine heater steam, it's designed to provide it. So, if you notice, it's not in the slow motion door, it's heater steam. Or, let me explain the difference between heater and steam. Normally, the heater is used for soaking and washing clothes. Even when you wash in hot water after washing, the heater produces steam, which helps to reduce wrinkles in the cloth. Plus, it's beneficial for the fabric without causing any damage.",
+    text: "The difference between heater steam and regular steam. let me explain the difference between heater and steam. Normally, the heater is used for soaking and washing clothes. Even when you wash in hot water after washing, the heater produces steam, which helps to reduce wrinkles in the cloth. Plus, it's beneficial for the fabric without causing any damage.",
     tags: []
   },
   {
     time: "[02:17 - 02:37]",
     title: "",
-    text: "If you look up, you'll notice that the holes are small. This means that if you hang small clothes, there's a risk of damaging the fabric. However, if you look at our Eyan Velvet series, the holes are larger. This design helps to reduce the risk of fabric damage.",
+    text: "If you look up, you'll notice that the holes are small in Haier. This means that if you hang small clothes, there's a risk of damaging the fabric. However, if you look at our Eyan Velvet series, the holes are larger. This design helps to reduce the risk of fabric damage.",
     tags: []
   },
   {
     time: "[02:37 - 03:33]",
     title: "",
-    text: "They've added a hygienic rinse and super-dry feature. If you choose the hygienic rinse, you can wash your clothes in the usual way. This usually involves a top load, soaking the clothes in water, washing them twice, and then drying them. If you notice that the rinse isn't thorough enough and you need to rinse again, the hygienic rinse is there to help. Similarly, when using the super-dry feature, you usually need to give items like wool some extra drying time. This extra drying time can take anywhere from 4 to 6 minutes.",
+    text: "They've added a hygienic rinse and super-dry feature. If you choose the hygienic rinse, you can wash your clothes in the usual way. This usually involves a top load, soaking the clothes in water, washing them twice, and then drying them. If you notice that the rinse isn't thorough enough and you need to rinse again, the hygienic rinse is there to help. Similarly, when using the super-dry feature, you usually need to give items like wool some extra drying time. This extra drying time can take anywhere from 4 to 6 minutes. If you look into competition product, these features are missing. If needed, separately the option has to selected after wash.",
     tags: []
   },
   {
     time: "[03:33 - 03:50]",
     title: "",
-    text: "If you continue, you'll see that the customized program offers 38 different options. In contrast, the same example competition only provides 15 programs. This means we can adjust the size of the program to suit our needs.",
+    text: "If you continue, you'll see that the customized program offers 38 different options. In contrast, the competition product only provides 15 programs. This means we can adjust the size of the program to suit our needs.",
     tags: []
   },
   {
     time: "[03:50 - 04:24]",
     title: "",
-    text: "You can make changes to it. You can adjust it to your liking. Plus, if you look at the detergent level, they have provided the amount you need to use. This information might not be available in other products. The key feature of the heater is the temperature setting. So, if you set the temperature, they would have specified the exact degree in our product. For example, when you choose hot, it's set at 55 degrees, warm at 45 degrees, and for steam wash, it's at 60 degrees.",
+    text: "You can make changes to it. You can adjust it to your liking. Plus, if you look at the detergent level, they have provided the amount you need to use. This information might not be available in other products. The key feature of the heater is the temperature setting. So, if you set the temperature, they would have specified the exact degree in our product. For example, when you choose hot, it's set at 55 degrees, warm at 45 degrees, and for steam wash, it's at 60 degrees. Steam will come out and create it.",
     tags: []
   },
   {
     time: "[04:24 - 04:45]",
     title: "",
-    text: "Steam will come out and create it. So, you won't find these options from other brands to the same extent. If you move up a level, if you look at flip-flops, they will offer them. Usually, if you look closely, even if you go straight, they will provide it in a way that pulls. They will give you a tension box that pulls. Over time, that tension box will come with the hand. Let me give you an example.",
+    text: "So, you won't find these options from other brands to the same extent. If you move up a level, you look at flip-flops for detergent, they will offer them. Usually, if you look a draw type would be given, it is hard to handle. They will give you a tension box that pulls. Over time, that tension box will come with the hand. Let me give you an example.",
     tags: []
   },
   {
     time: "[04:45 - 05:04]",
     title: "",
-    text: "It can be a bit tricky to manage. If you look closely, they could have made it more user-friendly, similar to Flip Flip. This would make it easier to use. Additionally, the warranty period is 12 years, and they would have provided a motor warranty.",
+    text: "It can be a bit tricky to manage. If you look closely, they have made it more user-friendly in our model, as Flip Flip. This would make it easier to use. Additionally, the warranty period is 12 years for motor warranty.",
     tags: []
   },
   {
     time: "[05:04 - 05:48]",
     title: "",
-    text: "They would have provided a full body for three years. This means that when you look at the competition, we have a slightly longer warranty period. Now, if they tell you that there isn't enough water in the tank, what can you do about it? They have given us the option of zero-pressure technology. Is this something the competition offers? Yes, it is. But in our zero-pressure technology, they mention 0.02 mba. This means that even if we have a tank up to 62 ft, they will build and give us 60% of the pressure. The same zero-pressure technology is available in this competition, but they suggest 50% is better for you, and the suction valve is better.",
+    text: "They would have provided a full body warranty for three years. This means that when you look at the competition, we have a slightly longer warranty period. Now, if they tell you that there isn't enough water in the tank, what can you do about it? They have given us the option of zero-pressure technology. Is this something the competition offers? Yes, it is. But in our zero-pressure technology, they mention 0.02 mba. This means that even if we have a tank up to 6.2 ft, they will build and give us 60% of the pressure. The same zero-pressure technology is available in this competition, but they could give only 50% better for you, and our model does better due to a better suction valve.",
     tags: []
   },
   {
