@@ -45,6 +45,18 @@ const WeeklyNudges: React.FC<WeeklyNudgesProps> = ({ nudges }) => {
           >
             <h3 className="font-semibold text-lg mb-2">{nudge.title}</h3>
             <p className="text-gray-500 text-sm">{nudge.description}</p>
+
+            {/* Audio player */}
+            {nudge.audioUrl && (
+              <audio
+                controls
+                className="w-full mt-3"
+                src={nudge.audioUrl}
+              >
+                Your browser does not support the audio element.
+              </audio>
+            )}
+
           </div>
         ))}
       </div>
