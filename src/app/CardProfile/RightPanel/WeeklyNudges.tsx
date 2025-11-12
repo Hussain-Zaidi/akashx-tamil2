@@ -6,6 +6,7 @@ interface Nudge {
   id: number;
   title: string;
   description: string;
+  audioUrl?: string;
 }
 
 interface WeeklyNudgesProps {
